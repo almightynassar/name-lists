@@ -1,6 +1,6 @@
 {
     "name": "almighty-name-lists",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Name lists (for use with almighty-markov-names",
     "author": "almightynassar",
     "license": "CC0-1.0",
@@ -21,6 +21,7 @@
         "name",
         "lists"
     ],
+    "files": ["dist/*", "src/*", "!/**/__tests__"],
     "scripts": {
         "build": "tsc --build",
         "clean": "tsc --build --clean",
