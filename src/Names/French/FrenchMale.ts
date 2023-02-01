@@ -1,5 +1,8 @@
 /**
  * Male Names (French)
+ *
+ * Sources:
+ * - http://www.20000-names.com/male_french_names.htm
  */
 const FrenchMale:Array<string> = [
   'abélard',

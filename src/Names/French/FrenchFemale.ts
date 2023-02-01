@@ -1,5 +1,8 @@
 /**
  * Female Names (French)
+ *
+ * Sources:
+ * - http://www.20000-names.com/female_french_names.htm
  */
 const FrenchFemale:Array<string> = [
   'abelle',
